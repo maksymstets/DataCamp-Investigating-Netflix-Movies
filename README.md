@@ -11,9 +11,9 @@ A movie is considered short if it is less than 90 minutes. Count the number of s
 Duration distribution: Create a histogram of movie durations in the 1990s\
 Genre analysis: What were the top 5 most common genres in the 1990s?\
 Trend over time: How did average movie duration change year by year in the 1990s?\
-Country comparison: Which country produced the most 1990s movies in the dataset?\
+Country comparison: Which country produced the most 1990s movies in the dataset?
 
 ### Requirements
 Python 3.10.12\
 pandas\
-matplotlib\
+matplotlib
