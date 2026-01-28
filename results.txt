@@ -1,0 +1,30 @@
+Example short action movies:
+                          title  duration   genre  release_year
+1288  EVANGELION: DEATH (TRUE)²        69  Action          1998
+1698                       Hero        89  Action          1997
+2328          Look Out, Officer        88  Action          1990
+2993               Passenger 57        84  Action          1992
+3297        Rumble in the Bronx        89  Action          1995
+Top 5 Genres:
+Action            48
+Dramas            44
+Comedies          40
+Children          15
+Classic Movies    15
+Name: genre, dtype: int64
+
+Average Duration by Year:
+release_year
+1990    117.428571
+1991     93.500000
+1992    104.000000
+1993    120.000000
+1994    128.428571
+1995    116.437500
+1996    120.133333
+1997    116.961538
+1998    109.884615
+1999    121.884615
+Name: duration, dtype: float64
+
+Most productive country: United States (99 movies)
